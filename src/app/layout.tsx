@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'TipEase',
+  title: 'Ataman - TipEase',
   description: 'Calculate tips and split bills with ease.',
 };
 
